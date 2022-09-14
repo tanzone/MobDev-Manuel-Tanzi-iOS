@@ -1,4 +1,4 @@
-# # MobDev-Manuel-Tanzi-Android
+# # MobDev-Manuel-Tanzi-iOS
 
 #### Sviluppare un’applicazione per mantenere una lista di promemoria 
 Un utente può salvare un promemoria caratterizzato da: 
